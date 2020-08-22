@@ -1,0 +1,13 @@
+Point1,Point2,Weight
+A,B,6
+A,C,2
+A,D,7
+A,E,8
+E,F,6
+B,G,2
+C,G,2
+C,G,3
+D,G,1
+G,H,5
+F,H,3
+Q,Z,6
