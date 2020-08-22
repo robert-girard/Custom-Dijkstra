@@ -1,5 +1,5 @@
 
-This programs uses Fast C++ CSV Parser (https://github.com/ben-strasser/fast-cpp-csv-parser) for csv parsing
+Custom-Dijkstra uses Fast C++ CSV Parser (https://github.com/ben-strasser/fast-cpp-csv-parser) for csv parsing
 
 Copyright (c) 2015, ben-strasser
 All rights reserved.
